@@ -6,7 +6,7 @@
     <body>
 
         <?php
-            ech "¡Hola, soy un script cachondo de PHP!";
+            echo "¡Hola, soy un script cachondo de PHP!";
         ?>
 
     </body>
